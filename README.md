@@ -54,7 +54,7 @@ The system can also be manually triggered using control buttons.
 
 ### Normal Operation
 
-![Normal Mode](image1.png)
+<img width="404" height="341" alt="111111111111111111" src="https://github.com/user-attachments/assets/c88ff749-a45c-4cc1-82d4-8106e7638b17" />
 
 The LCD displays current sensor values.
 
@@ -62,7 +62,7 @@ The LCD displays current sensor values.
 
 ### Alert Mode
 
-![Alert Mode](image2.png)
+<img width="410" height="349" alt="222222222222222222222222" src="https://github.com/user-attachments/assets/6483c36e-44f2-4b8d-b40a-2ef726a60e03" />
 
 If sensor thresholds are exceeded, the system displays a warning and activates alarms.
 
